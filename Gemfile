@@ -1,7 +1,10 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
+gem 'spinel'
+
 gem 'sinatra'
 gem 'sinatra-contrib'
-gem 'spinel'
 gem 'haml'
+
+gem 'ruby-progressbar'
